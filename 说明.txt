@@ -1,3 +1,0 @@
-work  目录  使用的域名：
-www.xf.test.com
-xf.test.com
